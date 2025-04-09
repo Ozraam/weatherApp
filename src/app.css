@@ -1,2 +1,15 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+@theme {
+    --color-prussian-blue: #012a4a;
+    --color-indigo-dye-2: #01497c;
+    --color-indigo-dye: #013a63;
+    --color-indigo-dye-3: #014f86;
+    --color-ucla-blue: #2a6f97;
+    --color-cerulean: #2c7da0;
+    --color-air-force-blue: #468faf;
+    --color-air-superiority-blue: #61a5c2;
+    --color-sky-blue: #89c2d9;
+    --color-light-blue: #a9d6e5;
+}
