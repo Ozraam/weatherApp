@@ -13,7 +13,7 @@
     <h2 class="font-bold text-air-superiority-blue uppercase">Forecast</h2>
     <ul>
         {#each weatherForcast.forecast.forecastday as day}
-            <li class="grid grid-cols-3 gap-2 items-center">
+            <li class="grid grid-cols-[0.5fr_1fr_0.5fr] gap-2 items-center">
                 <p>
                     {stringToDateToDayName(day.date)}
                 </p>

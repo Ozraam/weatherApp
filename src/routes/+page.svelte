@@ -54,6 +54,8 @@
                 <WeatherDetail weather={weatherData}/>
             {/if}
         </div>
-        <Forecast weatherForcast={weatherData}/>
+        {#if weatherData != null}
+            <Forecast weatherForcast={weatherData} class=""/>
+        {/if}
     </div>
 </main>
