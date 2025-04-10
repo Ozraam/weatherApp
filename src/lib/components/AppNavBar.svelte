@@ -14,9 +14,9 @@
 </script>
 
 
-<nav class="bg-indigo-dye rounded-xl p-2 text-sm flex flex-col gap-12 {class_}">
+<nav class="bg-indigo-dye rounded-xl p-2 text-sm flex lg:flex-col justify-between lg:justify-start gap-12 {class_}">
     <img src={logo} alt="Logo" class="max-w-16" />
-    <ul class="nav-links flex flex-col justify-center items-center gap-4 text-white">
+    <ul class="nav-links flex lg:flex-col justify-center items-center gap-4 text-white">
         {#each links as link}
             <li class="font-bold hover:bg-indigo-dye-2 px-1 rounded-lg transition">
                 <a href={link.href} class="flex flex-col justify-center items-center">

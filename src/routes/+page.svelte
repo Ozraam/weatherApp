@@ -46,8 +46,8 @@
 </script>
 
 <main class="flex justify-center items-center min-h-screen bg-indigo-dye-3 text-white">
-    <div class="bg-prussian-blue p-5 rounded-2xl shadow-lg flex gap-5">
-        <AppNavBar/>
+    <div class="bg-prussian-blue p-5 lg:rounded-2xl shadow-lg flex gap-5 flex-col lg:flex-row">
+        <AppNavBar class="flex"/>
         <div class="flex-1">
             <SearchBar class="w-full" bind:city={city} onsubmit={() => fetchWeather()}/>
             {#if weatherData != null}
