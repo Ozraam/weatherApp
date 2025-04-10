@@ -54,5 +54,6 @@
                 <WeatherDetail weather={weatherData}/>
             {/if}
         </div>
+        <Forecast weatherForcast={weatherData}/>
     </div>
 </main>

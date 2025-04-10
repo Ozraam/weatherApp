@@ -14,7 +14,7 @@
 </script>
 
 
-<nav class="bg-indigo-dye rounded-xl p-2 text-sm {class_}">
+<nav class="bg-indigo-dye rounded-xl p-2 text-sm flex flex-col gap-12 {class_}">
     <img src={logo} alt="Logo" class="max-w-16" />
     <ul class="nav-links flex flex-col justify-center items-center gap-4 text-white">
         {#each links as link}
