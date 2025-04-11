@@ -1,356 +1,356 @@
 # Gboard Dictionary version:1
 
-dollar	$	ja-JP
-blubby	(      0    _   0    )	ja-JP
-wave	( * ^ *) ノシ	ja-JP
-boobs	( . Y . )	ja-JP
-greet	( ´◔ ω◔`) ノシ	ja-JP
-greetings	( ´◔ ω◔`) ノシ	ja-JP
-ohshit	( º﹃º )	ja-JP
-bubbles	( ˘ ³˘)ノ°ﾟº❍｡	ja-JP
-sadlenny	( ͡° ʖ̯ ͡°)	ja-JP
-nice	( ͡° ͜ °)	ja-JP
-lenny	( ͡° ͜ʖ ͡°)	ja-JP
-this	( ͡° ͜ʖ ͡°)_/¯	ja-JP
-glassesoff	( ͡° ͜ʖ ͡°)ﾉ⌐■-■	ja-JP
-catlenny	( ͡° ᴥ ͡°)﻿	ja-JP
-lennygang	( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)	ja-JP
-lennysir	( ಠ ͜ʖ ರೃ)	ja-JP
-pingpong	( •_•)O*¯`·.¸.·´¯`°Q(•_• )	ja-JP
-bribe	( •͡˘ _•͡˘)ノð	ja-JP
-crywave	( ╥﹏╥) ノシ	ja-JP
-crim3s	( ✜︵✜ )	ja-JP
-hitting	( ｀皿´)｡ﾐ/	ja-JP
-glitter	(*・‿・)ノ⌒*:･ﾟ✧	ja-JP
-dontcare	(- ʖ̯-)	ja-JP
-idc	(- ʖ̯-)	ja-JP
-eeriemob	(-(-_-(-_(-_(-_-)_-)-_-)_-)_-)-)	ja-JP
-bored	(-_-)	ja-JP
-magicflip	(/¯◡ ‿ ◡)/¯ ~ ┻━┻	ja-JP
-sob	(;´༎ຶД༎ຶ`)	ja-JP
-cat	(= ФェФ=)	ja-JP
-rainbowcat	(=^･ｪ･^=))ﾉ彡☆	ja-JP
-tired	(=____=)	ja-JP
-zoidberg	(V) (°,,,,°) (V)	ja-JP
-pear	(__>-	ja-JP
-gloomy	(_゜_゜_)	ja-JP
-kappa	(¬,‿,¬)	ja-JP
-whoa	(°o•)	ja-JP
-gift	(´・ω・)っ由	ja-JP
-present	(´・ω・)っ由	ja-JP
-wat	(ÒДÓױ)	ja-JP
-hello	(ʘ‿ʘ)╯	ja-JP
-ohai	(ʘ‿ʘ)╯	ja-JP
-bye	(ʘ‿ʘ)╯	ja-JP
-fart	(ˆ⺫ˆ๑)<3	ja-JP
-blush	(˵ ͡° ͜ʖ ͡°˵)	ja-JP
-pleased	(˶‾᷄ ⁻̫ ‾᷅˵)	ja-JP
-dong	(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄	ja-JP
-swag	(̿▀̿‿ ̿▀̿ ̿)	ja-JP
-evillenny	(͠≖ ͜ʖ͠≖)	ja-JP
-claro	(͡ ° ͜ʖ ͡ °)	ja-JP
-goatse	(з๏ε)	ja-JP
-endure	(҂◡_◡) ᕤ	ja-JP
-look	(ಡ_ಡ)☞	ja-JP
-tears	(ಥ﹏ಥ)	ja-JP
-lennyfight	(ง ͠° ͟ʖ ͡°)ง	ja-JP
-fight	(ง •̀_•́)ง	ja-JP
-victory	(๑•̀ㅂ•́)ง✧	ja-JP
-surprised	(๑•́ ヮ •̀๑)	ja-JP
-frown	(ღ˘⌣˘ღ)	ja-JP
-damnyou	(ᕗ ͠° ਊ ͠° )ᕗ	ja-JP
-givemeyourmoney	(•-•)⌐	ja-JP
-cool	(•_•) ( •_•)>⌐■-■ (⌐■_■)	ja-JP
-csi	(•_•) ( •_•)>⌐■-■ (⌐■_■)	ja-JP
-yeah	(•̀ᴗ•́)و ̑̑	ja-JP
-yes	(•̀ᴗ•́)و ̑̑	ja-JP
-porcupine	(•ᴥ• )́`́'́`́'́⻍	ja-JP
-ass	(‿|‿)	ja-JP
-butt	(‿|‿)	ja-JP
-duh	(≧︿≦)	ja-JP
-wtf	(⊙＿⊙')	ja-JP
-glasses	(⌐ ͡■ ͜ʖ ͡■)	ja-JP
-nerd	(⌐⊙_⊙)	ja-JP
-dealwithit	(⌐■_■)	ja-JP
-dwi	(⌐■_■)	ja-JP
-execution	(⌐■_■)︻╦╤─   (╥﹏╥)	ja-JP
-cry	(╥﹏╥)	ja-JP
-run	(╯°□°)╯	ja-JP
-facebook	(╯°□°)╯︵ ʞooqǝɔɐɟ	ja-JP
-friendflip	(╯°□°)╯︵ ┻━┻ ︵ ╯(°□° ╯)	ja-JP
-rolleyes	(◔_◔)	ja-JP
-dog	(◕ᴥ◕ʋ)	ja-JP
-ohyou	(◞థ౪థ)ᴖ	ja-JP
-ou	(◞థ౪థ)ᴖ	ja-JP
-praise	(☝ ՞ਊ ՞)☝	ja-JP
-gotit	(☞ﾟ∀ﾟ)☞	ja-JP
-point	(☞ﾟヮﾟ)☞	ja-JP
-flower	(✿◠‿◠)	ja-JP
-flor	(✿◠‿◠)	ja-JP
-jake	(❍ᴥ❍ʋ)	ja-JP
-whistle	(っ^з^)♪♬	ja-JP
-inlove	(っ´ω`c)♡	ja-JP
-nom	(っˆڡˆς)	ja-JP
-yummy	(っˆڡˆς)	ja-JP
-delicious	(っˆڡˆς)	ja-JP
-kiss	(づ ￣ ³￣)づ	ja-JP
-hug	(づ｡◕‿‿◕｡)づ	ja-JP
-hugs	(づ｡◕‿‿◕｡)づ	ja-JP
-lennyflip	(ノ ͡° ͜ʖ ͡°ノ)   ︵ ( ͜。 ͡ʖ ͜。)	ja-JP
-tableflip	(ノ ゜Д゜)ノ ︵ ┻━┻	ja-JP
-rageflip	(ノಠ益ಠ)ノ彡┻━┻	ja-JP
-duckface	(・3・)	ja-JP
-afraid	(ㆆ _ ㆆ)	ja-JP
-y u no	(屮ﾟДﾟ)屮 Y U NO	ja-JP
-yuno	(屮ﾟДﾟ)屮 Y U NO	ja-JP
-orly	(눈_눈)	ja-JP
-depressed	(︶︹︶)	ja-JP
-facepalm	(－‸ლ)	ja-JP
-cute	(｡◕‿‿◕｡)	ja-JP
-excited	(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧	ja-JP
-glitterderp	(ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧	ja-JP
-luv	-`ღ´-	ja-JP
-plain	._.	ja-JP
-highfive	._.)/\(._.	ja-JP
-bat	/|\ ^._.^ /|\	ja-JP
-blackeye	0__#	ja-JP
-fish	<"(((<3	ja-JP
-dope	<(^_^)>	ja-JP
-squid	<コ:彡	ja-JP
-ghast	= _ =	ja-JP
-shy	=^_^=	ja-JP
-nyeh	@^@	ja-JP
-lol	L(° O °L)	ja-JP
-punch	O=('-'Q)	ja-JP
-yolo	Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ	ja-JP
-zombie	[¬º-°]¬	ja-JP
-lennybill	[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]	ja-JP
-yay	\( ﾟヮﾟ)/	ja-JP
-thanks	\(^-^)/	ja-JP
-thankyou	\(^-^)/	ja-JP
-ty	\(^-^)/	ja-JP
-meep	\(°^°)/	ja-JP
-help	\(°Ω°)/	ja-JP
-surrender	\_(-_-)_/	ja-JP
-metal	\m/,(> . <)_\m/	ja-JP
-rock	\m/,(> . <)_\m/	ja-JP
-lazy	_(:3」∠)_	ja-JP
-coffee	c[_]	ja-JP
-cuppa	c[_]	ja-JP
-dj	d[-_-]b	ja-JP
-sword	o()xxxx[{::::::::::::::::::>	ja-JP
-rage	t(ಠ益ಠt)	ja-JP
-mad	t(ಠ益ಠt)	ja-JP
-dead	x⸑x	ja-JP
-finn	| (• ◡•)|	ja-JP
-tiefighter	|=-(¤)-=|	ja-JP
-nyan	~=[,,_,,]:3	ja-JP
-kiahh	~\(≧▽≦)/~	ja-JP
-pound	£	ja-JP
-yen	¥	ja-JP
-copy	©	ja-JP
-c	©	ja-JP
-<<	«	ja-JP
-smirk	¬‿¬	ja-JP
-r	®	ja-JP
-dunno	¯\(°_o)/¯	ja-JP
-lennyshrug	¯\_( ͡° ͜ʖ ͡°)_/¯	ja-JP
-shrug	¯\_(ツ)_/¯	ja-JP
->>	»	ja-JP
-1/4	¼	ja-JP
-1/2	½	ja-JP
-whaa	Ö	ja-JP
-really	ò_ô	ja-JP
-creepcute	ƪ(ړײ)‎ƪ​​	ja-JP
-butterfly	ƸӜƷ	ja-JP
-epsilon	ɛ	ja-JP
-pooh	ʕ •́؈•̀)	ja-JP
-bear	ʕ·͡ᴥ·ʔ﻿	ja-JP
-koala	ʕ·͡ᴥ·ʔ﻿	ja-JP
-lovebear	ʕ♥ᴥ♥ʔ	ja-JP
-bearhug	ʕっ•ᴥ•ʔっ	ja-JP
-bearflip	ʕノ•ᴥ•ʔノ ︵ ┻━┻	ja-JP
-delta	Δ	ja-JP
-sigma	Σ	ja-JP
-sum	Σ	ja-JP
-omega	Ω	ja-JP
-alpha	α	ja-JP
-beta	β	ja-JP
-sad	ε(´סּ︵סּ`)з	ja-JP
-suicide	ε/̵͇̿̿/’̿’̿ ̿(◡︵◡)	ja-JP
-lambda	λ	ja-JP
-pi	π	ja-JP
-tau	τ	ja-JP
-evil	ψ(｀∇´)ψ	ja-JP
-creep	ԅ(≖‿≖ԅ)	ja-JP
-happy	٩( ๑╹ ꇴ╹)۶	ja-JP
-haha	٩(^‿^)۶	ja-JP
-internet	ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ	ja-JP
-illuminati	୧(▲ᴗ▲)ノ	ja-JP
-riot	୧༼ಠ益ಠ༽୨	ja-JP
-terrorist	୧༼ಠ益ಠ༽︻╦╤─	ja-JP
-fuckoff	୧༼ಠ益ಠ╭∩╮༽	ja-JP
-gtfo	୧༼ಠ益ಠ╭∩╮༽	ja-JP
-meh	ಠ_ಠ	ja-JP
-gentleman	ಠ_ರೃ	ja-JP
-sir	ಠ_ರೃ	ja-JP
-monocle	ಠ_ರೃ	ja-JP
-mistyeyes	ಡ_ಡ	ja-JP
-monster	༼ ༎ຶ ෴ ༎ຶ༽	ja-JP
-ghost	༼ つ ╹ ╹ ༽つ	ja-JP
-gimme	༼ つ ◕_◕ ༽つ	ja-JP
-hadouken	༼つಠ益ಠ༽つ ─=≡ΣO))	ja-JP
-why	ლ(`◉◞౪◟◉‵ლ)	ja-JP
-youkids	ლ༼>╭ ͟ʖ╮<༽ლ	ja-JP
-ukids	ლ༼>╭ ͟ʖ╮<༽ლ	ja-JP
-happygarry	ᕕ( ᐛ )ᕗ	ja-JP
-dance	ᕕ(⌐■_■)ᕗ ♪♬	ja-JP
-duel	ᕕ(╭ರ╭ ͟ʖ╮•́)⊃¤=(————-	ja-JP
-flexing	ᕙ(`▽´)ᕗ	ja-JP
-strong	ᕙ(⇀‸↼‶)ᕗ	ja-JP
-lennystrong	ᕦ( ͡° ͜ʖ ͡°)ᕤ	ja-JP
-toogood	ᕦ(òᴥó)ᕥ	ja-JP
-loud	ᕦ(⩾﹏⩽)ᕥ	ja-JP
-noise	ᕦ(⩾﹏⩽)ᕥ	ja-JP
-ebola	ᴇʙᴏʟᴀ	ja-JP
-emdash	–	ja-JP
---	–	ja-JP
-cross	†	ja-JP
-angry	•`_´•	ja-JP
-awkward	•͡˘㇁•͡˘	ja-JP
-ellipsis	…	ja-JP
-...	…	ja-JP
-cheer	※\(^o^)/※	ja-JP
-interrobang	‽	ja-JP
-euro	€	ja-JP
-tm	™	ja-JP
-1/3	⅓	ja-JP
-2/3	⅔	ja-JP
-1/8	⅛	ja-JP
-3/8	⅜	ja-JP
-5/8	⅝	ja-JP
-7/8	⅞	ja-JP
-left	←	ja-JP
-<-	←	ja-JP
-up	↑	ja-JP
-right	→	ja-JP
-->	→	ja-JP
-no	→_←	ja-JP
-down	↓	ja-JP
-sum	∑	ja-JP
-sqrt	√	ja-JP
-infinity	∞	ja-JP
-inf	∞	ja-JP
-int	∫	ja-JP
-because	∵	ja-JP
-since	∵	ja-JP
-kawaii	≧◡≦	ja-JP
-acid	⊂(◉‿◉)つ	ja-JP
-wut	⊙ω⊙	ja-JP
-zen	⊹╰(⌣ʟ⌣)╯⊹	ja-JP
-meditation	⊹╰(⌣ʟ⌣)╯⊹	ja-JP
-omm	⊹╰(⌣ʟ⌣)╯⊹	ja-JP
-cmd	⌘	ja-JP
-command	⌘	ja-JP
-opt	⌥	ja-JP
-option	⌥	ja-JP
-fly	─=≡Σ((( つ◕ل͜◕)つ	ja-JP
-bond	┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿	ja-JP
-007	┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿	ja-JP
-needle	┌(◉ ͜ʖ◉)つ┣▇▇▇═──	ja-JP
-inject	┌(◉ ͜ʖ◉)つ┣▇▇▇═──	ja-JP
-fuckyou	┌П┐(ಠ_ಠ)	ja-JP
-fu	┌П┐(ಠ_ಠ)	ja-JP
-iknowright	┐｜･ิω･ิ#｜┌	ja-JP
-ikr	┐｜･ิω･ิ#｜┌	ja-JP
-unflip	┬──┬ ノ(ò_óノ)	ja-JP
-tabledown	┬─┬﻿ ノ( ゜-゜ノ)	ja-JP
-flipped	┬─┬﻿ ︵ /(.□. \）	ja-JP
-heavytable	┬─┬﻿ ︵ /(.□. \）	ja-JP
-lennystalker	┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴	ja-JP
-stalker	┬┴┬┴┤(･_├┬┴┬┴	ja-JP
-keen	┬┴┬┴┤Ɵ͆ل͜Ɵ͆ ༽ﾉ	ja-JP
-doubletableflip	┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻	ja-JP
-shout	╚(•⌂•)╝	ja-JP
-chubby	╭(ʘ̆~◞౪◟~ʘ̆)╮	ja-JP
-lennywizard	╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ	ja-JP
-triangle	▲	ja-JP
-t	▲	ja-JP
-emptytriangle	△	ja-JP
-t2	△	ja-JP
-omg	◕_◕	ja-JP
-sun	☀	ja-JP
-cloud	☁	ja-JP
-snowman	☃	ja-JP
-star	★	ja-JP
-emptystar	☆	ja-JP
-derp	☉ ‿ ⚆	ja-JP
-handleft	☜	ja-JP
-hl	☜	ja-JP
-angel	☜(⌒▽⌒)☞	ja-JP
-toldyouso	☜(꒡⌓꒡)	ja-JP
-toldyou	☜(꒡⌓꒡)	ja-JP
-handright	☞	ja-JP
-hr	☞	ja-JP
-skull	☠	ja-JP
-nuclear	☢	ja-JP
-radioactive	☢	ja-JP
-nukular	☢	ja-JP
-hammerandsickle	☭	ja-JP
-hs	☭	ja-JP
-yinyang	☯	ja-JP
-yy	☯	ja-JP
-smiley	☺︎	ja-JP
-spade	♠	ja-JP
-club	♣	ja-JP
-h	♥	ja-JP
-heart	♥	ja-JP
-love	♥‿♥	ja-JP
-diamond	♦	ja-JP
-note	♫	ja-JP
-sing	♫	ja-JP
-flat	♭	ja-JP
-bemolle	♭	ja-JP
-natural	♮	ja-JP
-sharp	♯	ja-JP
-diesis	♯	ja-JP
-d1	⚀	ja-JP
-d2	⚁	ja-JP
-d3	⚂	ja-JP
-d4	⚃	ja-JP
-d5	⚄	ja-JP
-d6	⚅	ja-JP
-envelope	✉︎	ja-JP
-letter	✉︎	ja-JP
-peace	✌(-‿-)✌	ja-JP
-victory	✌(-‿-)✌	ja-JP
-check	✔	ja-JP
-f	✿	ja-JP
-rose	✿ڿڰۣ—	ja-JP
-bigheart	❤	ja-JP
-arrowhead	⤜(ⱺ ʖ̯ⱺ)⤏	ja-JP
-therefore	⸫	ja-JP
-so	⸫	ja-JP
-smile	ツ	ja-JP
-soviettableflip	ノ┬─┬ノ ︵ ( \o°o)\	ja-JP
-dab	ヽ( •_)ᕗ	ja-JP
-magic	ヽ(｀Д´)⊃━☆ﾟ. * ･ ｡ﾟ,	ja-JP
-do not want	ヽ(｀Д´)ﾉ	ja-JP
-dontwant	ヽ(｀Д´)ﾉ	ja-JP
-clique	ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ	ja-JP
-gang	ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ	ja-JP
-squad	ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ	ja-JP
-saddonger	ヽ༼ຈʖ̯ຈ༽ﾉ	ja-JP
-donger	ヽ༼ຈل͜ຈ༽ﾉ	ja-JP
-5	卌	ja-JP
-five	卌	ja-JP
-lumpy	꒰ ꒡⌓꒡꒱	ja-JP
-apple		ja-JP
-gun	︻╦╤─	ja-JP
-mg	︻╦╤─	ja-JP
-noclue	／人◕ __ ◕人＼	ja-JP
-kyubey	／人◕ ‿‿ ◕人＼	ja-JP
-woo	＼(＾O＾)／	ja-JP
-doublesharp	𝄪	ja-JP
-doubleflat	𝄫	ja-JP
+dollar	$	fr-FR
+blubby	(      0    _   0    )	fr-FR
+wave	( * ^ *) ノシ	fr-FR
+boobs	( . Y . )	fr-FR
+greet	( ´◔ ω◔`) ノシ	fr-FR
+greetings	( ´◔ ω◔`) ノシ	fr-FR
+ohshit	( º﹃º )	fr-FR
+bubbles	( ˘ ³˘)ノ°ﾟº❍｡	fr-FR
+sadlenny	( ͡° ʖ̯ ͡°)	fr-FR
+nice	( ͡° ͜ °)	fr-FR
+lenny	( ͡° ͜ʖ ͡°)	fr-FR
+this	( ͡° ͜ʖ ͡°)_/¯	fr-FR
+glassesoff	( ͡° ͜ʖ ͡°)ﾉ⌐■-■	fr-FR
+catlenny	( ͡° ᴥ ͡°)﻿	fr-FR
+lennygang	( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)	fr-FR
+lennysir	( ಠ ͜ʖ ರೃ)	fr-FR
+pingpong	( •_•)O*¯`·.¸.·´¯`°Q(•_• )	fr-FR
+bribe	( •͡˘ _•͡˘)ノð	fr-FR
+crywave	( ╥﹏╥) ノシ	fr-FR
+crim3s	( ✜︵✜ )	fr-FR
+hitting	( ｀皿´)｡ﾐ/	fr-FR
+glitter	(*・‿・)ノ⌒*:･ﾟ✧	fr-FR
+dontcare	(- ʖ̯-)	fr-FR
+idc	(- ʖ̯-)	fr-FR
+eeriemob	(-(-_-(-_(-_(-_-)_-)-_-)_-)_-)-)	fr-FR
+bored	(-_-)	fr-FR
+magicflip	(/¯◡ ‿ ◡)/¯ ~ ┻━┻	fr-FR
+sob	(;´༎ຶД༎ຶ`)	fr-FR
+cat	(= ФェФ=)	fr-FR
+rainbowcat	(=^･ｪ･^=))ﾉ彡☆	fr-FR
+tired	(=____=)	fr-FR
+zoidberg	(V) (°,,,,°) (V)	fr-FR
+pear	(__>-	fr-FR
+gloomy	(_゜_゜_)	fr-FR
+kappa	(¬,‿,¬)	fr-FR
+whoa	(°o•)	fr-FR
+gift	(´・ω・)っ由	fr-FR
+present	(´・ω・)っ由	fr-FR
+wat	(ÒДÓױ)	fr-FR
+hello	(ʘ‿ʘ)╯	fr-FR
+ohai	(ʘ‿ʘ)╯	fr-FR
+bye	(ʘ‿ʘ)╯	fr-FR
+fart	(ˆ⺫ˆ๑)<3	fr-FR
+blush	(˵ ͡° ͜ʖ ͡°˵)	fr-FR
+pleased	(˶‾᷄ ⁻̫ ‾᷅˵)	fr-FR
+dong	(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄	fr-FR
+swag	(̿▀̿‿ ̿▀̿ ̿)	fr-FR
+evillenny	(͠≖ ͜ʖ͠≖)	fr-FR
+claro	(͡ ° ͜ʖ ͡ °)	fr-FR
+goatse	(з๏ε)	fr-FR
+endure	(҂◡_◡) ᕤ	fr-FR
+look	(ಡ_ಡ)☞	fr-FR
+tears	(ಥ﹏ಥ)	fr-FR
+lennyfight	(ง ͠° ͟ʖ ͡°)ง	fr-FR
+fight	(ง •̀_•́)ง	fr-FR
+victory	(๑•̀ㅂ•́)ง✧	fr-FR
+surprised	(๑•́ ヮ •̀๑)	fr-FR
+frown	(ღ˘⌣˘ღ)	fr-FR
+damnyou	(ᕗ ͠° ਊ ͠° )ᕗ	fr-FR
+givemeyourmoney	(•-•)⌐	fr-FR
+cool	(•_•) ( •_•)>⌐■-■ (⌐■_■)	fr-FR
+csi	(•_•) ( •_•)>⌐■-■ (⌐■_■)	fr-FR
+yeah	(•̀ᴗ•́)و ̑̑	fr-FR
+yes	(•̀ᴗ•́)و ̑̑	fr-FR
+porcupine	(•ᴥ• )́`́'́`́'́⻍	fr-FR
+ass	(‿|‿)	fr-FR
+butt	(‿|‿)	fr-FR
+duh	(≧︿≦)	fr-FR
+wtf	(⊙＿⊙')	fr-FR
+glasses	(⌐ ͡■ ͜ʖ ͡■)	fr-FR
+nerd	(⌐⊙_⊙)	fr-FR
+dealwithit	(⌐■_■)	fr-FR
+dwi	(⌐■_■)	fr-FR
+execution	(⌐■_■)︻╦╤─   (╥﹏╥)	fr-FR
+cry	(╥﹏╥)	fr-FR
+run	(╯°□°)╯	fr-FR
+facebook	(╯°□°)╯︵ ʞooqǝɔɐɟ	fr-FR
+friendflip	(╯°□°)╯︵ ┻━┻ ︵ ╯(°□° ╯)	fr-FR
+rolleyes	(◔_◔)	fr-FR
+dog	(◕ᴥ◕ʋ)	fr-FR
+ohyou	(◞థ౪థ)ᴖ	fr-FR
+ou	(◞థ౪థ)ᴖ	fr-FR
+praise	(☝ ՞ਊ ՞)☝	fr-FR
+gotit	(☞ﾟ∀ﾟ)☞	fr-FR
+point	(☞ﾟヮﾟ)☞	fr-FR
+flower	(✿◠‿◠)	fr-FR
+flor	(✿◠‿◠)	fr-FR
+jake	(❍ᴥ❍ʋ)	fr-FR
+whistle	(っ^з^)♪♬	fr-FR
+inlove	(っ´ω`c)♡	fr-FR
+nom	(っˆڡˆς)	fr-FR
+yummy	(っˆڡˆς)	fr-FR
+delicious	(っˆڡˆς)	fr-FR
+kiss	(づ ￣ ³￣)づ	fr-FR
+hug	(づ｡◕‿‿◕｡)づ	fr-FR
+hugs	(づ｡◕‿‿◕｡)づ	fr-FR
+lennyflip	(ノ ͡° ͜ʖ ͡°ノ)   ︵ ( ͜。 ͡ʖ ͜。)	fr-FR
+tableflip	(ノ ゜Д゜)ノ ︵ ┻━┻	fr-FR
+rageflip	(ノಠ益ಠ)ノ彡┻━┻	fr-FR
+duckface	(・3・)	fr-FR
+afraid	(ㆆ _ ㆆ)	fr-FR
+y u no	(屮ﾟДﾟ)屮 Y U NO	fr-FR
+yuno	(屮ﾟДﾟ)屮 Y U NO	fr-FR
+orly	(눈_눈)	fr-FR
+depressed	(︶︹︶)	fr-FR
+facepalm	(－‸ლ)	fr-FR
+cute	(｡◕‿‿◕｡)	fr-FR
+excited	(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧	fr-FR
+glitterderp	(ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧	fr-FR
+luv	-`ღ´-	fr-FR
+plain	._.	fr-FR
+highfive	._.)/\(._.	fr-FR
+bat	/|\ ^._.^ /|\	fr-FR
+blackeye	0__#	fr-FR
+fish	<"(((<3	fr-FR
+dope	<(^_^)>	fr-FR
+squid	<コ:彡	fr-FR
+ghast	= _ =	fr-FR
+shy	=^_^=	fr-FR
+nyeh	@^@	fr-FR
+lol	L(° O °L)	fr-FR
+punch	O=('-'Q)	fr-FR
+yolo	Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ	fr-FR
+zombie	[¬º-°]¬	fr-FR
+lennybill	[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]	fr-FR
+yay	\( ﾟヮﾟ)/	fr-FR
+thanks	\(^-^)/	fr-FR
+thankyou	\(^-^)/	fr-FR
+ty	\(^-^)/	fr-FR
+meep	\(°^°)/	fr-FR
+help	\(°Ω°)/	fr-FR
+surrender	\_(-_-)_/	fr-FR
+metal	\m/,(> . <)_\m/	fr-FR
+rock	\m/,(> . <)_\m/	fr-FR
+lazy	_(:3」∠)_	fr-FR
+coffee	c[_]	fr-FR
+cuppa	c[_]	fr-FR
+dj	d[-_-]b	fr-FR
+sword	o()xxxx[{::::::::::::::::::>	fr-FR
+rage	t(ಠ益ಠt)	fr-FR
+mad	t(ಠ益ಠt)	fr-FR
+dead	x⸑x	fr-FR
+finn	| (• ◡•)|	fr-FR
+tiefighter	|=-(¤)-=|	fr-FR
+nyan	~=[,,_,,]:3	fr-FR
+kiahh	~\(≧▽≦)/~	fr-FR
+pound	£	fr-FR
+yen	¥	fr-FR
+copy	©	fr-FR
+c	©	fr-FR
+<<	«	fr-FR
+smirk	¬‿¬	fr-FR
+r	®	fr-FR
+dunno	¯\(°_o)/¯	fr-FR
+lennyshrug	¯\_( ͡° ͜ʖ ͡°)_/¯	fr-FR
+shrug	¯\_(ツ)_/¯	fr-FR
+>>	»	fr-FR
+1/4	¼	fr-FR
+1/2	½	fr-FR
+whaa	Ö	fr-FR
+really	ò_ô	fr-FR
+creepcute	ƪ(ړײ)‎ƪ​​	fr-FR
+butterfly	ƸӜƷ	fr-FR
+epsilon	ɛ	fr-FR
+pooh	ʕ •́؈•̀)	fr-FR
+bear	ʕ·͡ᴥ·ʔ﻿	fr-FR
+koala	ʕ·͡ᴥ·ʔ﻿	fr-FR
+lovebear	ʕ♥ᴥ♥ʔ	fr-FR
+bearhug	ʕっ•ᴥ•ʔっ	fr-FR
+bearflip	ʕノ•ᴥ•ʔノ ︵ ┻━┻	fr-FR
+delta	Δ	fr-FR
+sigma	Σ	fr-FR
+sum	Σ	fr-FR
+omega	Ω	fr-FR
+alpha	α	fr-FR
+beta	β	fr-FR
+sad	ε(´סּ︵סּ`)з	fr-FR
+suicide	ε/̵͇̿̿/’̿’̿ ̿(◡︵◡)	fr-FR
+lambda	λ	fr-FR
+pi	π	fr-FR
+tau	τ	fr-FR
+evil	ψ(｀∇´)ψ	fr-FR
+creep	ԅ(≖‿≖ԅ)	fr-FR
+happy	٩( ๑╹ ꇴ╹)۶	fr-FR
+haha	٩(^‿^)۶	fr-FR
+internet	ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ	fr-FR
+illuminati	୧(▲ᴗ▲)ノ	fr-FR
+riot	୧༼ಠ益ಠ༽୨	fr-FR
+terrorist	୧༼ಠ益ಠ༽︻╦╤─	fr-FR
+fuckoff	୧༼ಠ益ಠ╭∩╮༽	fr-FR
+gtfo	୧༼ಠ益ಠ╭∩╮༽	fr-FR
+meh	ಠ_ಠ	fr-FR
+gentleman	ಠ_ರೃ	fr-FR
+sir	ಠ_ರೃ	fr-FR
+monocle	ಠ_ರೃ	fr-FR
+mistyeyes	ಡ_ಡ	fr-FR
+monster	༼ ༎ຶ ෴ ༎ຶ༽	fr-FR
+ghost	༼ つ ╹ ╹ ༽つ	fr-FR
+gimme	༼ つ ◕_◕ ༽つ	fr-FR
+hadouken	༼つಠ益ಠ༽つ ─=≡ΣO))	fr-FR
+why	ლ(`◉◞౪◟◉‵ლ)	fr-FR
+youkids	ლ༼>╭ ͟ʖ╮<༽ლ	fr-FR
+ukids	ლ༼>╭ ͟ʖ╮<༽ლ	fr-FR
+happygarry	ᕕ( ᐛ )ᕗ	fr-FR
+dance	ᕕ(⌐■_■)ᕗ ♪♬	fr-FR
+duel	ᕕ(╭ರ╭ ͟ʖ╮•́)⊃¤=(————-	fr-FR
+flexing	ᕙ(`▽´)ᕗ	fr-FR
+strong	ᕙ(⇀‸↼‶)ᕗ	fr-FR
+lennystrong	ᕦ( ͡° ͜ʖ ͡°)ᕤ	fr-FR
+toogood	ᕦ(òᴥó)ᕥ	fr-FR
+loud	ᕦ(⩾﹏⩽)ᕥ	fr-FR
+noise	ᕦ(⩾﹏⩽)ᕥ	fr-FR
+ebola	ᴇʙᴏʟᴀ	fr-FR
+emdash	–	fr-FR
+--	–	fr-FR
+cross	†	fr-FR
+angry	•`_´•	fr-FR
+awkward	•͡˘㇁•͡˘	fr-FR
+ellipsis	…	fr-FR
+...	…	fr-FR
+cheer	※\(^o^)/※	fr-FR
+interrobang	‽	fr-FR
+euro	€	fr-FR
+tm	™	fr-FR
+1/3	⅓	fr-FR
+2/3	⅔	fr-FR
+1/8	⅛	fr-FR
+3/8	⅜	fr-FR
+5/8	⅝	fr-FR
+7/8	⅞	fr-FR
+left	←	fr-FR
+<-	←	fr-FR
+up	↑	fr-FR
+right	→	fr-FR
+->	→	fr-FR
+no	→_←	fr-FR
+down	↓	fr-FR
+sum	∑	fr-FR
+sqrt	√	fr-FR
+infinity	∞	fr-FR
+inf	∞	fr-FR
+int	∫	fr-FR
+because	∵	fr-FR
+since	∵	fr-FR
+kawaii	≧◡≦	fr-FR
+acid	⊂(◉‿◉)つ	fr-FR
+wut	⊙ω⊙	fr-FR
+zen	⊹╰(⌣ʟ⌣)╯⊹	fr-FR
+meditation	⊹╰(⌣ʟ⌣)╯⊹	fr-FR
+omm	⊹╰(⌣ʟ⌣)╯⊹	fr-FR
+cmd	⌘	fr-FR
+command	⌘	fr-FR
+opt	⌥	fr-FR
+option	⌥	fr-FR
+fly	─=≡Σ((( つ◕ل͜◕)つ	fr-FR
+bond	┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿	fr-FR
+007	┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿	fr-FR
+needle	┌(◉ ͜ʖ◉)つ┣▇▇▇═──	fr-FR
+inject	┌(◉ ͜ʖ◉)つ┣▇▇▇═──	fr-FR
+fuckyou	┌П┐(ಠ_ಠ)	fr-FR
+fu	┌П┐(ಠ_ಠ)	fr-FR
+iknowright	┐｜･ิω･ิ#｜┌	fr-FR
+ikr	┐｜･ิω･ิ#｜┌	fr-FR
+unflip	┬──┬ ノ(ò_óノ)	fr-FR
+tabledown	┬─┬﻿ ノ( ゜-゜ノ)	fr-FR
+flipped	┬─┬﻿ ︵ /(.□. \）	fr-FR
+heavytable	┬─┬﻿ ︵ /(.□. \）	fr-FR
+lennystalker	┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴	fr-FR
+stalker	┬┴┬┴┤(･_├┬┴┬┴	fr-FR
+keen	┬┴┬┴┤Ɵ͆ل͜Ɵ͆ ༽ﾉ	fr-FR
+doubletableflip	┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻	fr-FR
+shout	╚(•⌂•)╝	fr-FR
+chubby	╭(ʘ̆~◞౪◟~ʘ̆)╮	fr-FR
+lennywizard	╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ	fr-FR
+triangle	▲	fr-FR
+t	▲	fr-FR
+emptytriangle	△	fr-FR
+t2	△	fr-FR
+omg	◕_◕	fr-FR
+sun	☀	fr-FR
+cloud	☁	fr-FR
+snowman	☃	fr-FR
+star	★	fr-FR
+emptystar	☆	fr-FR
+derp	☉ ‿ ⚆	fr-FR
+handleft	☜	fr-FR
+hl	☜	fr-FR
+angel	☜(⌒▽⌒)☞	fr-FR
+toldyouso	☜(꒡⌓꒡)	fr-FR
+toldyou	☜(꒡⌓꒡)	fr-FR
+handright	☞	fr-FR
+hr	☞	fr-FR
+skull	☠	fr-FR
+nuclear	☢	fr-FR
+radioactive	☢	fr-FR
+nukular	☢	fr-FR
+hammerandsickle	☭	fr-FR
+hs	☭	fr-FR
+yinyang	☯	fr-FR
+yy	☯	fr-FR
+smiley	☺︎	fr-FR
+spade	♠	fr-FR
+club	♣	fr-FR
+h	♥	fr-FR
+heart	♥	fr-FR
+love	♥‿♥	fr-FR
+diamond	♦	fr-FR
+note	♫	fr-FR
+sing	♫	fr-FR
+flat	♭	fr-FR
+bemolle	♭	fr-FR
+natural	♮	fr-FR
+sharp	♯	fr-FR
+diesis	♯	fr-FR
+d1	⚀	fr-FR
+d2	⚁	fr-FR
+d3	⚂	fr-FR
+d4	⚃	fr-FR
+d5	⚄	fr-FR
+d6	⚅	fr-FR
+envelope	✉︎	fr-FR
+letter	✉︎	fr-FR
+peace	✌(-‿-)✌	fr-FR
+victory	✌(-‿-)✌	fr-FR
+check	✔	fr-FR
+f	✿	fr-FR
+rose	✿ڿڰۣ—	fr-FR
+bigheart	❤	fr-FR
+arrowhead	⤜(ⱺ ʖ̯ⱺ)⤏	fr-FR
+therefore	⸫	fr-FR
+so	⸫	fr-FR
+smile	ツ	fr-FR
+soviettableflip	ノ┬─┬ノ ︵ ( \o°o)\	fr-FR
+dab	ヽ( •_)ᕗ	fr-FR
+magic	ヽ(｀Д´)⊃━☆ﾟ. * ･ ｡ﾟ,	fr-FR
+do not want	ヽ(｀Д´)ﾉ	fr-FR
+dontwant	ヽ(｀Д´)ﾉ	fr-FR
+clique	ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ	fr-FR
+gang	ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ	fr-FR
+squad	ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ	fr-FR
+saddonger	ヽ༼ຈʖ̯ຈ༽ﾉ	fr-FR
+donger	ヽ༼ຈل͜ຈ༽ﾉ	fr-FR
+5	卌	fr-FR
+five	卌	fr-FR
+lumpy	꒰ ꒡⌓꒡꒱	fr-FR
+apple		fr-FR
+gun	︻╦╤─	fr-FR
+mg	︻╦╤─	fr-FR
+noclue	／人◕ __ ◕人＼	fr-FR
+kyubey	／人◕ ‿‿ ◕人＼	fr-FR
+woo	＼(＾O＾)／	fr-FR
+doublesharp	𝄪	fr-FR
+doubleflat	𝄫	fr-FR
 
